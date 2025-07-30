@@ -1,0 +1,192 @@
+body {
+    margin: 0 auto;
+    font-family: ms pgothic;
+    font-size: 15px;
+	text-shadow: 0 0 0px, 0 0 3px grey;
+    line-height: 17px;
+    background-image: url(./resources/gingham1.png);
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+body a {
+    text-decoration: underline;
+    color: black;
+}
+
+body a:hover {
+    text-decoration: underline;
+    color: black;
+}
+
+.subject {
+    padding: 60px;
+    border: 1px;
+    margin: auto 0;
+    width: 560px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    
+}
+
+.area {  
+    margin-left:150px;
+    width:700px;
+	border-left:1px dotted
+    black;
+    border-right:1px dotted black;
+    background-color: white;
+}
+
+.side {
+    padding: 10px;
+    position: fixed;
+}
+
+.table {
+    width: 100px;
+    background-color: white;
+    padding: 10px;
+    border: 1px dotted black;
+    float: right;
+    line-height: 25px;
+}
+
+.fun {
+    margin: 0 auto;
+    padding: 40px;
+    border: 1px;
+    line-height: 20px;
+    width: 650px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    opacity: 100%;
+}
+
+.box {
+    width:800px;
+    height:400px;
+    margin:0 auto;
+    padding:20px;
+}
+
+.musiclink {
+	font-size: 16px;
+	text-align: center;
+}
+
+
+.me {
+    background-color:white;
+    padding:30px;
+    width: 300px;
+  
+
+    font-family: georgia;
+    font-size: 15px;
+    line-height: 28.3px;
+    opacity: 100%;
+
+    float:left;
+}
+
+.right {
+   
+    float:right;
+	text-align: center;
+}
+
+.sidepic {
+    background-color:white;
+    padding:32px;
+
+    opacity: 100%;  
+}
+
+.sidepic2 {
+    background-color:white;
+    padding-top:32px;
+	padding-left:32px;
+	padding-right:32px;
+	padding-bottom:16px;
+    opacity: 100%;
+}
+
+.updatebox {
+    width:600px;
+    text-align:center;
+    margin: 0 auto;
+    height:15px;
+    font-family:ms pgothic;
+    letter-spacing:1px;
+    font-weight:bold;
+    background-color:white;
+    border:1px solid black;
+    color:gray;
+    padding:5px;
+}
+
+.updates {
+    margin: 0 auto;
+	border:1px solid black;
+	padding:5px;
+    background-color:white;
+	width:600px;
+    height:130px;
+}
+
+.updates {
+    margin: 0 auto;
+	border:1px solid black;
+	padding:5px;
+    background-color:white;
+	width:600px;
+    height:auto;
+}
+
+.text {
+    padding: 5px;
+	overflow: auto;
+    font-size:13px;
+    line-height:20px;
+    letter-spacing:1px;
+    background-color:white;
+}
+
+.favlinks {
+    padding: 5px;
+	overflow: auto;
+    font-size:13px;
+    line-height:20px;
+    letter-spacing:1px;
+    background-color:white;
+	text-align:center;
+}
+
+.spottext {
+	margin: 0 auto;
+	text-align: center;
+    padding: 5px;
+	overflow: auto;
+    font-size:13px;
+    line-height:20px;
+    letter-spacing:1px;
+    background-color:white;
+}
+
+.rightpic {
+	width: 250px;
+}
+
+.spotlight {
+    margin: 0 auto;
+	border:1px solid black;
+	padding:5px;
+    background-color:white;
+	width:600px;
+    height:auto;
+}
+
+.spotpic {
+	width: 400px;
+}
